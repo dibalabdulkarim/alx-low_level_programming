@@ -1,2 +1,0 @@
-#!/bin/bash
-echo 'gcc $CFILE -o cisfun' >> 2-assembler
