@@ -19,3 +19,4 @@ char *strcat(char *dest, const char *src)
 		dest[dest_len++] = src[index];
 
 	return (dest);
+}
